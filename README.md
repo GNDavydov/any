@@ -12,3 +12,4 @@ The class any describes a type-safe container for single values of any copy cons
 
 https://en.cppreference.com/w/cpp/utility/any
 
+https://www.cppstories.com/2018/06/any/
